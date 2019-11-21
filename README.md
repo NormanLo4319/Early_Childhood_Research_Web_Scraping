@@ -18,7 +18,7 @@ The project is performed using Python libraries.
 - random
 
 ## Results:
-The application should return the research paper title, summary, citation, link, publish date, and author.
+The application should return +50,000 results with each research paper title, summary, citation, link, publish date, and author.
 
 ## Challenges:
 The NBER web page is only limited to the first 20 pages search.  It doesn't allow the autobot to go beyond 20 pages search.  Random timers and manual search were tested, but both failed to go beyond the limit.  
